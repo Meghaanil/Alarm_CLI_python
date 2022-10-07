@@ -1,7 +1,7 @@
-# Alarm_CLI_python
+# Alarm_CLI_python⏰
 ## Technology Used💎
-- PYTHON
-<img width="400px" src="alarm.png"/>
+- ### PYTHON
+<img width="700px" src="alarm.PNG"/>
 
 ## How to configure:🧐
 
